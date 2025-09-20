@@ -285,6 +285,7 @@ func init() {
 				logsCmd,
 				updateCheckCmd,
 				versionCmd,
+				monitorCmd,
 				optionsCmd,
 			},
 		},
